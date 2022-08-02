@@ -33,6 +33,12 @@
         <div class="col-sm-12">
             <div class="">
                 <div class="task uk-card uk-card-default uk-card-hover uk-card-body opacity-75 mt-10 challenge-card">
+                    <h5 style="margin-top:15px">Penjelasan :</h5>
+                    <p style="line-height: 30px;text-align:justify">
+                        Penugasan PPT Life Plan ini adalah PPT yang nantinya berisikan rencana ataupun target-target kedepannya yang akan diraih maupun dilakukan oleh peserta bakti, dalam pembuatannya peserta bakti dibebaskan berkreativitas dalam mendesain maupun menyusun PPT Life Plan mereka masing-masing yang tentunya tetap menjunjung nilai originalitas dalam penugasan ini. Dengan penugasan ini diharapkan peserta bakti memiliki pandangan hidup yang terarah dan membuat mereka lebih percaya diri untuk mengambil keputusan dan bertindak kedepannya.
+                    </p>
+
+                    <br>
                     <h5 style="margin-top:15px">Tujuan :</h5>
                     <ol style="line-height: 30px;">
                         <li>Memberikan gambaran kepada mahasiswa baru mengenai pandangan hidup ke depan meliputi target-target yang harus dicapai saat menjadi mahasiswa.</li>
@@ -40,21 +46,45 @@
                         <li>Menjadi pengingat dan motivasi diri untuk mahasiswa baru dalam mencapai cita-cita atau target yang diinginkan.</li>
                         <li>Membentuk karakter mahasiswa baru untuk bisa berpikir kritis dalam merencanakan kehidupan kedepannya agar terarah dan fokus terhadap hal yang ingin diraih.</li>
                     </ol>
-                    <br>
 
                     <h5 style="margin-top:15px">Ketentuan Penugasan :</h5>
                     <ol style="line-height: 30px;">
                         <li>PPT Life Plan berisi rencana hidupatau target-target yang akan dilakukan kedepannya.</li>
                         <li>Mahasiswa dibebaskan berkreativitas dalam mendesain PPT Life Plan.</li>
                         <li>PPT Life Plan dibuat secara individu sesuai dengan rencana hidup pribadi, tidak diperkenankan untuk men-copas dari internet ataupun meniru teman-teman mahasiswa baru yang lain.</li>
+                        <li>Penugasan dikirim dalam format file PDF minimal 5 slide dan maksimal 15 slide, dengan ukuran pdf maksimal 1 mb.</li>
+                        <li>Dan Jika terdapat kendala pada saat pembuatan maupun pengumpulan, peserta wajib melapor kepada uda-uni mentor kelompok masing-masing, dan disertai dengan bukti yang logis.</li>
+
                     </ol>
-                    <br>
+
+                    <h5 style="margin-top:15px">Kriteria :</h5>
+                    <ol style="line-height: 30px;">
+                        <li>Originalitas : dibuat menggunakan karya pribadi (25).</li>
+                        <li>Kreativitas (25) </li>
+                        <li>Estetika : kerapihan dan keindahan PPT (25).</li>
+                        <li>Ketepatan waktu pengumpulan (25).</li>
+                    </ol>
 
                     <h5 style="margin-top:15px">Timeline :</h5>
-                    <p style="line-height: 30px;text-align:justify">Penugasan PPT Life Plan ini diberikan kepada mahasiswa baru pada saat Pra Bakti yaitu pada pembekalan Bakti dan dikumpulkan pasca bakti tanggal 18 Agustus maksimal di link G-drive masing-masing kelompok
+                    <p style="line-height: 30px;text-align:justify">
+                        Tanggan Release : 5 Agustus 2022 <br>
+                        Tanggal Pengumpulan : 19 Agustus 2022
                     </p>
 
-                    <br>
+                    <h5 style="margin-top:15px">Teknis Pengumpulan :</h5>
+                    <p style="line-height: 30px;text-align:justify">
+                        Peserta bakti akan mengumpulkannya melalui link G-Form yang disediakan oleh uda-uni mentor kelompok masing-masing. Dengan format nama: <br>
+                        <b>(Nama_Kelompok) <br>
+                            Contoh : Azizah Nur Afifah_Kelompok 3<b>
+
+                    </p>
+
+                    <h5 style="margin-top:15px">Hadiah :</h5>
+                    <ol style="line-height: 30px;">
+                        <li>Sertifikat.</li>
+                        <li>Merchendise</li>
+                        <li>Poin Peniilaian</li>
+                    </ol>
 
                     <p uk-margin align="center">
                         <button class="uk-button uk-button-default center" uk-toggle="target: #modal-close-default" style="padding:5px 25px;font-size:18px;background-color:#54744F;color:white;weight:800; border-radius:10px">SUBMIT</button>

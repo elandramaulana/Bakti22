@@ -33,41 +33,59 @@
         <div class="col-sm-12">
             <div class="">
                 <div class="task uk-card uk-card-default uk-card-hover uk-card-body opacity-75 mt-10 challenge-card">
-                    <p style="line-height: 30px;text-align:justify">Membuat rangkuman materi BAKTI dalam bentuk essai tidak perlu sesuai ketentuan essai karya tulis ilmiah namun dalam lebih kedalam bentuk rangkuman materi BAKTI. </p>
-
+                    <h5 style="margin-top:15px">Penjelasan :</h5>
+                    <p style="line-height: 30px;text-align:justify">
+                        Setiap peserta BAKTI diwajibkan untuk membuat rangkuman materi BAKTI dalam bentuk essai, tidak perlu sesuai ketentuan essai karya tulis ilmiah namun lebih bentuk rangkuman materi BAKTI.
+                    </p>
                     <h5 style="margin-top:15px">Tujuan :</h5>
                     <ol style="line-height: 30px;">
                         <li>Memberikan gambaran kepada mahasiswa baru mengenai karya tulis ilmiah atau gambaran dari tugas-tugas kuliah saat menjadi mahasiswa.</li>
-                        <li> Menjadi membantu maba memahami dan menguasai isi sebuah materi pas BAKTI </li>
+                        <li>Membantu mahasiswa baru dalam memahami dan menguasai isi sebuah materi pada Hari H-BAKTI. </li>
                         <li>Membentuk karakter mahasiswa baru untuk bisa berpikir kritis dan paham akan materi yang disampaikan.</li>
                     </ol>
-                    <br>
 
                     <h5 style="margin-top:15px">Ketentuan Penugasan :</h5>
                     <ol style="line-height: 30px;">
-                        <li>Essai/rangkuman berisi tentang semua rangkaian acara bakti atau materi-materi bakti. </li>
-                        <li>Mahasiswa dibebaskan berkreativitas dalam membuat essai/ringkasan.</li>
-                        <li>Essai/rangkuman dibuat secara individu sesuai dengan materi ang diterima ole maba, tidak diperkenankan untuk men-copas dari internet ataupun meniru teman-teman mahasiswa baru yang lain.
-                        </li>
+                        <li>Essai/rangkuman berisi tentang semua rangkaian acara bakti mulai dari kuliah umum yang disampaikan oleh para direktur dan kegiatan Andalas in Action (minimal setiap peserta wajib menuliskan mengenai 3 UKM yang ada di Universitas Andalas).</li>
+                        <li>Mahasiswa dibebaskan berkreativitas dalam membuat essai/rangkuman.</li>
+                        <li>Essai/rangkuman dibuat dalam bentuk soft file dengan format kertas (atas,kanan,bawah = 3cm dan kiri = 4 cm)</li>
+                        <li>Pada Essai/rangkuman, peserta wajib menuliska nama, jurusan, fakultas, dan kelompok bakti pada bagian atas.</li>
+                        <li>Essai/rangkuman dibuat dengan maksimal 3 halaman, dan tidak perlu menggunakan cover.</li>
+                        <li>Essai/rangkuman dibuat secara individu sesuai dengan materi yang diterima oleh masing-masing peserta bakti, tidak diperkenakan untuk melakukan plagiarisme dari internet ataupun meniru teman-teman mahasiswa baru yang lain.</li>
+                        <li>Dan Jika terdapat kendala pada saat pembuatan maupun pengumpulan, peserta wajib melapor kepada uda-uni mentor kelompok masing-masing, dan disertai dengan bukti yang logis.</li>
+
                     </ol>
-                    <br>
+
+                    <h5 style="margin-top:15px">Kriteria :</h5>
+                    <ol style="line-height: 30px;">
+                        <li>Originalitas : dibuat menggunakan karya pribadi (25).</li>
+                        <li>Kreativitas (15)</li>
+                        <li>Kesesuaian isi dengan materi yang diberikan (25)</li>
+                        <li>Estetika : kerapihan dan keindahan (15)</li>
+                        <li>Ketepatan waktu pengumpulan (20)</li>
+                    </ol>
 
                     <h5 style="margin-top:15px">Timeline :</h5>
-                    <p style="line-height: 30px;text-align:justify">Penugasan Essai/rangkuman ini diberikan kepada mahasiswa baru pada saat Pra Bakti yaitu pada pembekalan Bakti dan dikumpulkan pasca bakti tanggal 18 agustus maksimal di link G-drive masing-masing kelompok. </p>
-                    <br>
+                    <p style="line-height: 30px;text-align:justify">
+                        Tanggan Release : 5 Agustus 2022 <br>
+                        Tanggal Pengumpulan : 19 Agustus 2022
 
-                    <p uk-margin align="center">
-                        <button class="uk-button uk-button-default center" uk-toggle="target: #modal-close-default" style="padding:5px 25px;font-size:18px;background-color:#54744F;color:white;weight:800; border-radius:10px">SUBMIT</button>
                     </p>
 
-                    <div id="modal-close-default" uk-modal>
-                        <div class="uk-modal-dialog uk-modal-body center mx-auto text-center" style="border-radius:20px;background: linear-gradient(180deg, #FEFFDF 0%, #D5ECC2 100%),linear-gradient(0deg, #FFFFFF, #FFFFFF);">
-                            <button class="uk-modal-close-default" type="button" uk-close></button>
-                            <h4>Kelompok</h4>
-                            <p style="background-color:rgba(145, 199, 137, 1);color:white;padding:10px 10px;border-radius:10px;margin:20px auto">Ketik nomor kelompokmu...</p>
-                            <button class="uk-button" type="button" style="padding:5px 25px;font-size:18px;background-color:#54744F;color:white;weight:800; border-radius:10px">OK</button>
-                        </div>
-                    </div>
+                    <h5 style="margin-top:15px">Teknis Pengumpulan :</h5>
+                    <p style="line-height: 30px;text-align:justify">
+                        Peserta bakti akan mengumpulkannya melalui link G-Form yang disediakan oleh uda-uni mentor kelompok masing-masing. Essai/rangkuman dikumpulkan dalam format PDF dan maksimal ukuran PDF adalah 1 MB, dengan Format nama: <br>
+                        <b>(Nama_Kelompok) <br>
+                            Contoh : Azizah Nur Afifah_Kelompok 3<b>
+
+                    </p>
+
+                    <h5 style="margin-top:15px">Hadiah :</h5>
+                    <ol style="line-height: 30px;">
+                        <li>Sertifikat.</li>
+                        <li>Merchendise</li>
+                        <li>Poin Peniilaian</li>
+                    </ol>
 
                 </div>
             </div>

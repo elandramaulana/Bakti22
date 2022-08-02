@@ -35,13 +35,13 @@
             <div class="">
                 <div class="task uk-card uk-card-default uk-card-hover uk-card-body opacity-75 mt-10 challenge-card">
                     <h5>#AkuDanKampusku</h5>
-                    <p style="line-height: 30px">Membuat video berdurasi minimal 2 menit dengan tema pilihan yang menceritakan tentang Universitas Andalas. Jika memungkinkan mahasiswa baru melakukan shooting langsung di UNAND.
+                    <p style="line-height: 30px;">Video Kreatif oleh Mahasiswa Baru UNAND 2022 ini adalah video yang dibuat oleh mahasiswa baru mengenai Universitas Andalas. Dalam pembuatannya mahasiswa boleh memilih tema yang disediakan oleh panitia untuk proses pembuatan videonya. Sehingga melalui video ini kita berharap mahasiswa baru akan lebih kenal dengan lingkungan kampusnya dan memberikan wawasan baru bagi mereka terkait Universitas Andalas. Mari ramaikan video ini dengan tagar berikut: #AkuDanKampusku</p>
 
                     <h5>Tujuan :</h5>
                     <ol style="line-height: 30px;">
                         <li>Membentuk mahasiswa baru yang mengenal lingkungannya sendiri.</li>
-                        <li>Memberikan wawasan yang konstruktif dan berkelanjutan terhadap mahasiswa baru oleh panitia BAKTI 2022.</li>
-                        <li>Menanamkan rasa ingin tahu yang tinggi terhadap lingkungan Universitas Andalas.</li>
+                        <li>Memberikan wawasan yang konstruktif dan berkelanjutan terhadap mahasiswa baru oleh panitia BAKTI 2022 </li>
+                        <li>Menanamkan penasaran yang yang tinggi terhadap lingkungan Universitas Andalas</li>
                     </ol>
 
                     <h5>Ketentuan :</h5>
@@ -51,28 +51,55 @@
                             <li>Fakultas dan Fasilitas unggulan yang ada di Universitas Andalas</li>
                             <li>Unit Kegiatan Mahasiswa (UKM) di Universitas Andalas</li>
                             <li>Fun Fact atau ciri khas unik tentang Universitas Andalas yang perlu diketahui Mahasiswa Universitas Andalas</li>
-                            <li>Alasan memilih jurusan</li>
+                            <li>Kesan dan pesan BAKTI 2022</li>
                         </ol>
-                        <li>Video berdurasi minimal 2 menit dan maksimal 5 menit</li>
-                        <li>Video diupload di Instagram pribadi dalam bentuk IGTV dengan mengaktifkan fitur post a review atau tampilkan cuplikan</li>
-                        <li>Tag @baktiunand @bemkmunand dan akun instagram Uda dan Uni Mentor kelompok masing-masing.</li>
-                        <li>Jika memungkinkan mahasiswa baru melakukan shooting langsung di UNAND.</li>
-                        <li>Judul : Challenge Bakti UNAND 2022</li>
+                        <li>Video berdurasi minimal 30 detik dan maksimal 5 menit dengan pengambilan video wajib potrait</li>
+                        <li>Video yang dibuat adalah video karya pribadi mahasiswa baru (originalitas) tanpa adanya melakukan plagiarisme, jika memang terdapat clip dari video yang diambil dari google maupun sumber lainnya harap dicantumkan pada end title video. </li>
+                        <li>Jika memungkinkan mahasiswa baru dapat melakukan shooting langsung di UNAND.</li>
+                        <li>Dan Jika terdapat kendala pada saat pembuatan maupun pengumpulan, peserta wajib melapor kepada uda-uni mentor kelompok masing-masing, dan disertai dengan bukti yang logis. </li>
                     </ol>
 
+
                     <h5>Caption :</h5>
-                    <p>[akudankampusku]</p>
-                    <p>(Caption menarik terkait video dan pengenalan UNAND)</p>
-                    <br>
-                    <p>Saya (Nama) dari (Jurusan dan Fakultas), saya Kenal UNAND!</p>
-                    <br>
-                    <p>#AkuDanKampusku</p>
-                    <p>#BaktiUNAND2021</p>
+                    <p>Judul : [Challenge Bakti #2 UNAND 2022]</p>
+                    <p>[AkuDanKampusKu]
+                        (Caption menarik tentang tema yang dipilih terkait dengan video dam pengenalan UNAND)
+                        Saya (Nama) dari (Jurusan)(Fakultas), saya Kenal UNAND
+                    </p>
+                    <p>#AkuDanKampusku <br>
+                        #BAKTIUNAND2022<br>
+                        #VideoKreatifMABAUNAND2022
 
-                    <h5>Waktu Pelaksanaan :</h5>
-                    <p>Video Diupload H-3 BAKTI (14 Agustus 2022)</p>
-                    <br>
+                    </p>
 
+                    <h5 style="margin-top:15px">Kriteria :</h5>
+                    <ol style="line-height: 30px;">
+                        <li>Originalitas : dibuat menggunakan karya pribadi (25).</li>
+                        <li>Kreativitas (20) </li>
+                        <li>Kesesuaian isi video dengan tema yang diberikan (20)</li>
+                        <li>Estetika : kerapihan dan keindahan video (15)</li>
+                        <li>Ketepatan waktu pengumpulan (20)</li>
+                    </ol>
+
+                    <h5 style="margin-top:15px">Timeline :</h5>
+                    <p style="line-height: 30px;text-align:justify">
+                        Tanggan Release : 5 Agustus 2022 <br>
+                        Tanggal Pengumpulan : 13 Agustus 2022
+
+
+                    </p>
+
+                    <h5 style="margin-top:15px">Teknis Pengumpulan :</h5>
+                    <p style="line-height: 30px;text-align:justify">
+                        Video diupload di Instagram pribadi peserta BAKTI dalam bentuk IGTV dengan mengaktifkan fitur post a preview, akun tidak boleh privat dan wajib Tag IG @baktiunand @bemkmunand dan akun instagram Uda dan Uni Mentor kelompok masing-masing. Nantinya mahasiswa baru akan mengumpulkan Link IGTV tersebut ke dalam Link G-Form yang disediakan oleh panitia.
+                    </p>
+
+                    <h5 style="margin-top:15px">Hadiah :</h5>
+                    <ol style="line-height: 30px;">
+                        <li>Sertifikat.</li>
+                        <li>Merchendise</li>
+                        <li>Poin Peniilaian</li>
+                    </ol>
                 </div>
             </div>
         </div>

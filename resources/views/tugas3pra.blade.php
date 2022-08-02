@@ -34,37 +34,59 @@
         <div class="col-sm-12">
             <div class="">
                 <div class="task uk-card uk-card-default uk-card-hover uk-card-body opacity-75 mt-10 challenge-card">
-
-                    <p style="line-height: 30px;text-align:justify">Konsep twibbon tentang Keberagaman Nusantara dan pemuda sebagai penggerak dan pemimpin dalam perubahan dengan
-                        <b>#BAKTIUntukNegeri</b>. Foto yang digunakan adalah foto dengan menggunakan atribut yang memiliki ciri khas suatu daerah untuk menunjukkan keberagaman nusantara. Dalam caption menjelaskan asal muasal atau deskripsi tentang atribut yang digunakan serta menjelaskan bahwa Indonesia memiliki banyak budaya yang harus diketahui oleh poetra/i Indonesia. Foto nantinya bisa dikumpulkan selain untuk twibbon (ini bisa dijadiin buku nanti, etnootografi : keberagaman).
-                    </p>
-                    </p>
+                    <p style="line-height: 30px;">Dalam memeriahkan acara BAKTI UNAND 2022, setiap peserta BAKTI UNAND 2022 diwajibkan untuk ikut dalam twibbon contest ini guna memeriahkan acara BAKTI UNAND 2022. </p>
 
                     <h5>Tujuan :</h5>
                     <ol style="line-height: 30px;">
                         <li>Memperkenalkan asal dan budaya masing-masing mahasiswa baru.</li>
-                        <li>Mempromosikan dan memeriahkan kegiatan Bakti Unand 2022.</li>
-                        <li>Melatih kreatifitas mahasiswa baru untuk berpikir kritis menentukan caption sesuai ketentuan yang diminta.</li>
+                        <li>Mempromosikan dan memeriahkan kegiatan Bakti Unand 2022. </li>
+                        <li>Melatih kreatifitas mahasiswa baru untuk berpikir kritis menentukan caption sesuaj ketentuan yang di minta. </li>
                     </ol>
 
                     <h5>Ketentuan :</h5>
                     <ol style="line-height: 30px;">
-                        <li>Setiap peserta Bakti UNAND 2022 mengupload twibbon dengan foto yang digunakan adalah foto dengan menggunakan atribut yang memiliki ciri khas suatu daerah agar menunjukkan kebergaman nusantaranya. Dalam caption menjelaskan asal muasal atau deskripsi tentang atribut yang mereka gunakan serta menjelaskan bahwa Indonesia memiliki banyak budaya yang harus diketahui oleh poetra/I Indonesia.</li>
-                        <li>Foto menyertakan wajah mahasiswa baru dengan jelas. Foto nantinya bisa dikumpulkan selain untuk twibbon.</li>
-                        <li>Twibbon diupload di instagram pribadi.</li>
-                        <li>Tag @baktiunand @bemkmunand dan akun instagram Uda dan Uni Mentor kelompok masing-masing.</li>
+                        <li>Setiap peserta Bakti UNAND 2022 mengupload twibbon dengan Foto yang digunakan adalah foto menggunakan atribut yang memiliki ciri khas suatu daerah agar menunjukkan keberagaman nusantaranya (seperti foto menggunakan baju adat, mengonsumsi makanan khas daerah, atau foto dengan latar rumah adat). </li>
+                        <li>Dalam caption menjelaskan kebudayaan yang diperlihatkan pada foto serta menjelaskan bahwa Indonesia memiliki banyak budaya yang harus diketahui oleh poetra/I Indonesia.</li>
+                        <li>Foto menyertakan wajah mahasiswa baru dengan jelas. Nantinya foto akan dikumpulkan untuk dijadikan buku (etnootografi : keberagaman)</li>
                     </ol>
 
                     <h5>Caption :</h5>
-                    <p>[Challenge BAKTI 2022]</p>
-                    <p>My name is (nama) from (jurusan fakultas), I am a part of BAKTI 2022!</p>
-                    <p>(Caption menarik tentang keberagaman budaya Indonesia)</p>
-                    <br>
-                    <p>#BAKTIUntukNegeri</p>
-                    <p>#BAKTIUNAND2021</p>
+                    <p>Judul : [Challenge Bakti #3 UNAND 2022]</p>
+                    <p>
+                        My name is (Nama) from (Jurusan)(Fakultas), I am a part Of BAKTI UNAND 2022 !!
+                        (Caption menarik mengenai keberagaman budaya Indonesia)
 
-                    <h5>Waktu Pelaksanaan :</h5>
-                    <p>H-1 BAKTI ( 14 Agustus 2022)</p>
+                    </p>
+                    <p>#BAKTIUntukNegeri <br>
+                        #BAKTIUNAND2022
+
+                    </p>
+
+                    <h5 style="margin-top:15px">Kriteria :</h5>
+                    <ol style="line-height: 30px;">
+                        <li>Kreativitas : terlihat dari caption yang dituliskan (30).</li>
+                        <li>Kesesuaian foto dengan caption yang dituliskan. (20)</li>
+                        <li>Estetika : kerapihan dan keindahan foto (20)</li>
+                        <li>Ketepatan waktu pengumpulan (30)(15)</li>
+                    </ol>
+
+                    <h5 style="margin-top:15px">Timeline :</h5>
+                    <p style="line-height: 30px;text-align:justify">
+                        Tanggan Release : 5 Agustus 2022 <br>
+                        Tanggal Pengumpulan : 14 Agustus 2022
+                    </p>
+
+                    <h5 style="margin-top:15px">Teknis Pengumpulan :</h5>
+                    <p style="line-height: 30px;text-align:justify">
+                        Twibbon diupload di Instagram pribadi peserta BAKTI, akun tidak diperbolehkan privat dan wajib Tag IG @baktiunand @bemkmunand dan akun instagram Uda dan Uni Mentor kelompok masing-masing. Nantinya mahasiswa baru akan mengumpulkan Link Postingan Twibbon tersebut ke dalam Link G-Form yang disediakan oleh panitia.
+                    </p>
+
+                    <h5 style="margin-top:15px">Hadiah :</h5>
+                    <ol style="line-height: 30px;">
+                        <li>Sertifikat.</li>
+                        <li>Merchendise</li>
+                        <li>Poin Peniilaian</li>
+                    </ol>
 
 
                     <p uk-margin align="center">
