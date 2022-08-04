@@ -41,7 +41,7 @@
       <div class="col-sm-6">
         <div class="gal-pos2">
           <div class="uk-flex">
-            <video src="https://yootheme.com/site/images/media/yootheme-pro.mp4" width="400" height="250" loop muted playsinline uk-video="autoplay: inview"></video>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/jJUEo5oMTR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="uk-flex">
             <div class="uk-card mt-3 uk-transition-toggle" tabindex="0">

@@ -14,8 +14,8 @@
     <div class="row">
       <div class="col-sm-12 d-flex justify-content-center">
         <div class="card anthem-pos uk-width-2xlarge ">
-          <div class="card-body">
-            <iframe width="750" height="450" src="#" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen uk-responsive></iframe>
+          <div class="card-body uk-flex">
+            <iframe width="700" height="450" src="https://www.youtube.com/embed/_Z0Ks8Bjg9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
           </div>
         </div>

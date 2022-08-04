@@ -475,6 +475,19 @@ div {
     margin-top: -100px;
 }
 
+#ukm .card {
+    background-color: #92C889;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 20px;
+    width: 70%;
+}
+
+#ukm h2 {
+    color: #000000;
+    font-size: 20px;
+}
+
 .ukm-label {
     width: 350px;
     margin-top: 80px;
@@ -653,7 +666,7 @@ div {
 .challenge-card {
     color: black;
     border-radius: 40px;
-    margin-top: 150px;
+    margin-top: 100px;
     border: 5px groove green;
 }
 
@@ -1278,6 +1291,9 @@ div {
     .filosofi h6 {
         font-size: 14px;
     }
+    .maskot-pos {
+        padding-top: 200px;
+    }
     #maskot .card {
         background-color: #91C789;
         border-radius: 20px;
@@ -1450,14 +1466,12 @@ div {
     /* Challenge */
     #challenge {
         width: 100%;
-        height: 250vh;
+        height: 350vh;
         background-color: #030303;
-        margin-top: -170px;
+        margin-top: -100px;
     }
     .thirteen-img {
-        background-image: url("/image/tugas1.png");
-        height: 150vh;
-        width: 100vw;
+        background-image: url("/image/Tugas2.png");
         background-color: grey;
         background-position: center center;
         background-repeat: no-repeat;
@@ -1467,7 +1481,7 @@ div {
         font-family: 'Roboto', sans-serif;
         color: #54744F;
         font-weight: bolder;
-        margin-top: 70px;
+        margin-top: 30px;
         font-size: 15px;
         display: block;
         position: relative;
@@ -1491,14 +1505,14 @@ div {
         margin-top: -90px;
     } */
     .challenge-card h5 {
-        font-size: 20px;
+        font-size: 25px;
         margin-top: 8px
     }
     .challenge-card p {
-        font-size: 12px;
+        font-size: 15px;
     }
     .challenge-card ol {
-        font-size: 12px;
+        font-size: 16px;
     }
     /* end Challenge */
     /* countdown */
@@ -1934,12 +1948,12 @@ div {
     /* Challenge */
     #challenge {
         width: 100%;
-        height: 250vh;
+        height: 400vh;
         background-color: #030303;
         margin-top: -170px;
     }
     .thirteen-img {
-        background-image: url("/image/tugas1.png");
+        background-image: url("/image/Tugas2.png");
         height: 150vh;
         width: 100vw;
         background-color: grey;
@@ -1975,14 +1989,14 @@ div {
         margin-top: -90px;
     } */
     .challenge-card h5 {
-        font-size: 20px;
+        font-size: 25px;
         margin-top: 8px
     }
     .challenge-card p {
-        font-size: 12px;
+        font-size: 15px;
     }
     .challenge-card ol {
-        font-size: 12px;
+        font-size: 16px;
     }
     #footer .icon-pos {
         margin-top: -50px;
@@ -2188,8 +2202,8 @@ div {
     /* Challenge */
     #challenge {
         width: 100%;
-        height: 330vh;
-        background-color: #d4e0d4;
+        height: 450vh;
+        background-color: #91C789;
         overflow: hidden;
         position: relative;
         margin-top: -100px;
@@ -2359,12 +2373,24 @@ div {
         position: relative;
         margin-top: -100px;
     }
+    #ukm .card {
+        background-color: #92C889;
+        border-radius: 20px;
+        text-align: center;
+        margin-top: 20px;
+        width: 70%;
+        height: 50px;
+    }
+    #ukm h2 {
+        color: #000000;
+        font-size: 15px;
+    }
     .ukm-label {
         width: 250px;
         margin-top: 80px;
     }
     .ukm-pos {
-        margin-top: 200px;
+        margin-top: 150px;
     }
     #ukm h3 {
         font-size: 12px;
@@ -2645,8 +2671,8 @@ div {
     /* Challenge */
     #challenge {
         width: 100%;
-        height: 350vh;
-        background-color: #d4e0d4;
+        height: 500vh;
+        background-color: #91C789;
         overflow: hidden;
         position: relative;
         margin-top: -100px;
@@ -2813,12 +2839,24 @@ div {
         position: relative;
         margin-top: -100px;
     }
+    #ukm .card {
+        background-color: #92C889;
+        border-radius: 20px;
+        text-align: center;
+        margin-top: 20px;
+        width: 70%;
+        height: 50px;
+    }
+    #ukm h2 {
+        color: #000000;
+        font-size: 15px;
+    }
     .ukm-label {
         width: 250px;
         margin-top: 80px;
     }
     .ukm-pos {
-        margin-top: 200px;
+        margin-top: 150px;
     }
     #ukm h3 {
         font-size: 12px;
@@ -3103,12 +3141,21 @@ div {
     /* Challenge */
     #challenge {
         width: 100%;
-        height: 370vh;
+        height: 550vh;
         background-color: #91C789;
         overflow: hidden;
         position: relative;
         margin-top: -100px;
     }
+    /* .thirteen-img {
+        background-image: url("/image/Tugas2.png");
+        height: 500vh;
+        width: 100vw;
+        background-color: #d6e7cf;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: 100%;
+    } */
     #nav-page-tugas a {
         font-family: 'Roboto', sans-serif;
         color: #54744F;
@@ -3273,12 +3320,24 @@ div {
         position: relative;
         margin-top: -100px;
     }
+    #ukm .card {
+        background-color: #92C889;
+        border-radius: 20px;
+        text-align: center;
+        margin-top: 20px;
+        width: 70%;
+        height: 50px;
+    }
+    #ukm h2 {
+        color: #000000;
+        font-size: 15px;
+    }
     .ukm-label {
         width: 250px;
         margin-top: 80px;
     }
     .ukm-pos {
-        margin-top: 200px;
+        margin-top: 150px;
     }
     #ukm h3 {
         font-size: 12px;
