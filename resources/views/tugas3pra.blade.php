@@ -67,7 +67,7 @@
                         <li>Kreativitas : terlihat dari caption yang dituliskan (30).</li>
                         <li>Kesesuaian foto dengan caption yang dituliskan. (20)</li>
                         <li>Estetika : kerapihan dan keindahan foto (20)</li>
-                        <li>Ketepatan waktu pengumpulan (30)(15)</li>
+                        <li>Ketepatan waktu pengumpulan (30)</li>
                     </ol>
 
                     <h5 style="margin-top:15px">Timeline :</h5>

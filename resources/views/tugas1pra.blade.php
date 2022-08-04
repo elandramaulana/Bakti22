@@ -51,7 +51,7 @@
                         <li>Video berisi kegiatan berkaitan dengan wisata, makanan khas, tarian daerah, atau menyanyikan lagu daerah, video ini diambil boleh berasal dari daerah mana saja yang ada di Indonesia sebagai bentuk peduli dan mengetahui berbagai keberagaman yang ada di Nusantara.</li>
                         <li>Video berdurasi minimal 30 detik dan maksimal 5 menit dengan pengambilan video wajib potrait.</li>
                         <li>Video yang dibuat adalah video karya pribadi mahasiswa baru (originalitas) tanpa adanya melakukan plagiarisme, jika memang terdapat clip dari video yang diambil dari google maupun sumber lainnya harap dicantumkan pada end title video. </li>
-                        <li>ika terdapat kendala pada saat pembuatan maupun pengumpulan, peserta wajib melapor kepada uda-uni mentor kelompok masing-masing, dan disertai dengan bukti yang logis. </li>
+                        <li>Jika terdapat kendala pada saat pembuatan maupun pengumpulan, peserta wajib melapor kepada uda-uni mentor kelompok masing-masing, dan disertai dengan bukti yang logis. </li>
                     </ol>
 
                     <h5>Caption :</h5>
