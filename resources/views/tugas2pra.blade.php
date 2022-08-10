@@ -23,7 +23,7 @@
                     <ul class="uk-navbar-nav">
                         <li class="uk-active"><a href="{{ route('tugas1pra') }}">Keberagaman Budaya</a></li>
                         <li class="uk-active"><a href="{{ route('tugas2pra') }}">Seputar Kampus</a></li>
-                        <li class="uk-active"><a href="{{ route('tugas3pra') }}">Twibbion Contest</a></li>
+                        <li class="uk-active"><a href="{{ route('tugas3pra') }}">Twibbon Contest</a></li>
                     </ul>
                 </div>
             </nav>

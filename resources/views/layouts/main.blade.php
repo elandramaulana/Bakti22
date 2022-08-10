@@ -52,19 +52,16 @@
               <li><a href="{{ route("fakultas") }}">Fakultas dan Jurusan</a></li>
               <li><a href="{{ route("ukm") }}">Unit Kegiatan Mahasiswa</a></li>
               <li><a href="{{ route("anthem") }}">Bakti Anthem Player</a></li>
-              <li><a href="{{ route("merch") }}">Merchendise</a></li>
+              <li><a href="{{ route("merch") }}">Merchandise</a></li>
               <li><a href="{{ route("tugas1pra") }}">Tugas</a></li>
               <li><a href="{{ route("gallery") }}">Gallery</a></li>
-              {{-- <a href="#" class="uk-button chat-btn d-flex justify-content-center">Chat</a>--}}
+              <a href="#" uk-toggle="target: #modal-chat-default" class="uk-button chat-btn d-flex justify-content-center">Chat</a>
             </ul>
           </div>
         </div>
       </nav>
-
     </div>
-
   </div>
-
 
   @yield('landing-page')
 

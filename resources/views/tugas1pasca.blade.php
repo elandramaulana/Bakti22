@@ -91,11 +91,11 @@
                     </p>
 
                     <div id="modal-close-default" uk-modal>
-                        <div class="uk-modal-dialog uk-modal-body center mx-auto text-center" style="border-radius:20px;background: linear-gradient(180deg, #FEFFDF 0%, #D5ECC2 100%),linear-gradient(0deg, #FFFFFF, #FFFFFF);">
+                        <div class="uk-modal-dialog uk-modal-body center mx-auto text-center" style="height:250px; width:600px;border-radius:20px;background: linear-gradient(180deg, #FEFFDF 0%, #D5ECC2 100%),linear-gradient(0deg, #FFFFFF, #FFFFFF);">
                             <button class="uk-modal-close-default" type="button" uk-close></button>
                             <h4>Kelompok</h4>
-                            <p style="background-color:rgba(145, 199, 137, 1);color:white;padding:10px 10px;border-radius:10px;margin:20px auto">Ketik nomor kelompokmu...</p>
-                            <button class="uk-button" type="button" style="padding:5px 25px;font-size:18px;background-color:#54744F;color:white;weight:800; border-radius:10px">OK</button>
+                            <input type="text" class="uk-input mt-4" style="background-color:white; color:black; padding:10px 10px;border-radius:10px;margin:20px aut0" placeholder="Ketik nomor kelompokmu">
+                            <button class="uk-button mt-4" type="button" style="padding:5px 25px;font-size:18px;background-color:#54744F;color:white;weight:800; border-radius:10px">OK</button>
                         </div>
                     </div>
                 </div>
