@@ -44,18 +44,15 @@
         <div class="uk-modal-dialog uk-modal-body center mx-auto text-center" style="height:250px; width:450px;border-radius:20px;background: linear-gradient(180deg, #B0DBAA 0%, #91C789 100%);">
           <button class="uk-modal-close-default" type="button" uk-close></button>
           <h4>Absen</h4>
-          <input type="text" class="uk-input mt-4" style="background-color:white; color:black; padding:10px 10px;border-radius:10px;margin:20px aut0" placeholder="Masukkan NIM">
-          <button class="uk-button mt-4" type="button" uk-toggle="target: #modal-next-default" style="padding:5px 25px;font-size:18px;background-color:#54744F;color:white;weight:800; border-radius:10px">OK</button>
+          <input id="getnim" type="number" class="uk-input mt-4" style="background-color:white; color:black; padding:10px 10px;border-radius:10px;margin:20px aut0" placeholder="Masukkan NIM">
+          <button onclick="nim()" class="uk-button mt-4" type="button" uk-toggle="target: #modal-next-default" style="padding:5px 25px;font-size:18px;background-color:#54744F;color:white;weight:800; border-radius:10px">OK</button>
         </div>
       </div>
 
       <div id="modal-next-default" uk-modal>
-        <div class="uk-modal-dialog uk-modal-body center mx-auto text-center" style="height:400px; width:450px;border-radius:20px;background: linear-gradient(180deg, #B0DBAA 0%, #91C789 100%);">
-          <button class="uk-modal-close-default" type="button" uk-close></button>
-          <h4>Absen</h4>
-          <img src="https://tse4.mm.bing.net/th?id=OIP.A7mWe14IJgPqTHq7aUY9IAHaHa&pid=Api&P=0" style="width:50%;height:70%">
-          <br>
-          <button class="uk-button mt-3" type="button" style="padding:5px 25px;font-size:18px;background-color:#54744F;color:white;weight:800; border-radius:10px">Unduh</button>
+        <div class="uk-modal-dialog uk-modal-body center mx-auto text-center" style="height:400px; width:450px;border-radius:20px; background: transparent">
+          <img id="qr_nim" src="">
+          <a id="downlaod_qr" download="QRCode_Absen_Bakti_2022.png" href="" class="uk-button mt-3" type="button" style="padding:5px 25px;font-size:18px;background-color:#54744F;color:white;weight:800; border-radius:10px">Unduh</a>
         </div>
       </div>
 
@@ -74,11 +71,11 @@
               jika ada yang ingin ditanyakan.
               <br><br>
               Terima kasih.<a>
-                <a style="width:65%; padding:8px 8px; margin-top:10px;margin-left:150px;background: rgba(213, 236, 194, 1);border-radius:10px"">Pesan sender<a>
+                <a style="width:65%; padding:8px 8px; margin-top:10px;margin-left:150px;background: rgba(213, 236, 194, 1);border-radius:10px">Pesan sender</a>
       </div>
       <form method=" POST" action="" style="background: rgba(213, 236, 194, 1); border-radius:10px">
                   <input class="uk-textarea" placeholder="Kirim pesan" style="width:85%;background: rgba(213, 236, 194, 1);border-radius:10px">
-                  <button disabled='disabled' style="border:1px solid rgba(213, 236, 194, 1);padding:1% 1%;color:rgba(84, 116, 79, 1);"><b>Kirim</button>
+        <button disabled='disabled' style="border:1px solid rgba(213, 236, 194, 1);padding:1% 1%;color:rgba(84, 116, 79, 1);"><b>Kirim</b></button>
                   </form>
           </div>
         </div>
@@ -141,6 +138,13 @@
         UIkit.modal('#modal-center').show();
       }, 1000);
     });
+
+    function nim(){
+      var getnim = document.getElementById("getnim").value
+      document.getElementById("qr_nim").src = `{{ \Illuminate\Support\Facades\Storage::url('qr/${getnim}.png') }}`
+      document.getElementById("downlaod_qr").href = `{{ \Illuminate\Support\Facades\Storage::url('qr/${getnim}.png') }}`
+    }
+
   </script>
 
   @endsection

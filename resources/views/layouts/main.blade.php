@@ -39,7 +39,7 @@
 
           <ul class="uk-navbar-nav">
             <li><a href="{{ route("index") }}">Beranda</a></li>
-            <li><a href="{{ route("sambutan") }}">Sambutan</a></li>
+            <li><a href="#">Sambutan</a></li>
             <li><a href="{{ route("logo") }}">Logo</a></li>
             <li><a href="{{ route("maskot") }}">Maskot</a></li>
             <li><a href="{{ route("peta") }}">Peta</a></li>
