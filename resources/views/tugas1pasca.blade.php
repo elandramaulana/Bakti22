@@ -86,18 +86,18 @@
                         <li>Poin Peniilaian</li>
                     </ol>
 
-                    <p uk-margin align="center">
-                        <button class="uk-button uk-button-default center" uk-toggle="target: #modal-close-default" style="padding:5px 25px;font-size:18px;background-color:#54744F;color:white;weight:800; border-radius:10px">SUBMIT</button>
-                    </p>
+{{--                    <p uk-margin align="center">--}}
+{{--                        <button class="uk-button uk-button-default center" uk-toggle="target: #modal-close-default" style="padding:5px 25px;font-size:18px;background-color:#54744F;color:white;weight:800; border-radius:10px">SUBMIT</button>--}}
+{{--                    </p>--}}
 
-                    <div id="modal-close-default" uk-modal>
-                        <div class="uk-modal-dialog uk-modal-body center mx-auto text-center" style="height:250px; width:600px;border-radius:20px;background: linear-gradient(180deg, #FEFFDF 0%, #D5ECC2 100%),linear-gradient(0deg, #FFFFFF, #FFFFFF);">
-                            <button class="uk-modal-close-default" type="button" uk-close></button>
-                            <h4>Kelompok</h4>
-                            <input type="text" class="uk-input mt-4" style="background-color:white; color:black; padding:10px 10px;border-radius:10px;margin:20px aut0" placeholder="Ketik nomor kelompokmu">
-                            <button class="uk-button mt-4" type="button" style="padding:5px 25px;font-size:18px;background-color:#54744F;color:white;weight:800; border-radius:10px">OK</button>
-                        </div>
-                    </div>
+{{--                    <div id="modal-close-default" uk-modal>--}}
+{{--                        <div class="uk-modal-dialog uk-modal-body center mx-auto text-center" style="height:250px; width:600px;border-radius:20px;background: linear-gradient(180deg, #FEFFDF 0%, #D5ECC2 100%),linear-gradient(0deg, #FFFFFF, #FFFFFF);">--}}
+{{--                            <button class="uk-modal-close-default" type="button" uk-close></button>--}}
+{{--                            <h4>Kelompok</h4>--}}
+{{--                            <input type="text" class="uk-input mt-4" style="background-color:white; color:black; padding:10px 10px;border-radius:10px;margin:20px aut0" placeholder="Ketik nomor kelompokmu">--}}
+{{--                            <button class="uk-button mt-4" type="button" style="padding:5px 25px;font-size:18px;background-color:#54744F;color:white;weight:800; border-radius:10px">OK</button>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
                 </div>
             </div>
         </div>
