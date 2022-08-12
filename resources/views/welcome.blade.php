@@ -24,7 +24,8 @@
                       2022
                     </h4>
                     <a href="#" class="uk-button absen-btn uk-button-default center" uk-toggle="target: #modal-close-default">Absen QR</a>
-                    <a download="PANDUAN BAKTI 2022 v7.0.pdf" href="{{ \Illuminate\Support\Facades\Storage::url('guideline.pdf') }}" class="uk-button absen-btn">Guidline</a>
+                    <a download="PANDUAN BAKTI 2022 v7.0.pdf" href="{{ \Illuminate\Support\Facades\Storage::url('guideline.pdf') }}" class="uk-button absen-btn">Guideline</a>
+                    <a download="Id Card Peserta Bakti 2022.pdf" href="{{ \Illuminate\Support\Facades\Storage::url('id_card.pdf') }}" class="uk-button absen-btn">Id Card</a>
                   </div>
                 </div>
               </div>

@@ -37,36 +37,85 @@
             <div class="">
                 <div class="task uk-card uk-card-default uk-card-hover uk-card-body opacity-75 mt-10 challenge-card">
                     <h5>#KamiBAKTIUntukNegeri</h5>
-                    <p style="line-height: 30px;">Video Kreatif oleh Mahasiswa Baru UNAND 2022 ini adalah video kegiatan yang berkaitan dengan keberagaman budaya Indonesia seperti makanan khas daerah, tarian daerah, lagu daerah, dll. Diharapkan melalui video ini mahasiswa baru ikut memberikan kontribusinya untuk negeri ini dalam mengenalkan kebudayaan yang ada di Indonesia. Mari ramaikan video ini dengan tagar berikut: #KamiBaktiUntukNegeri</p>
+                    <p style="line-height: 30px;">
+                        Video Kreatif oleh Mahasiswa Baru UNAND 2022 ini
+                        adalah video kegiatan yang berkaitan dengan keberagaman
+                        budaya Indonesia seperti makanan khas daerah, tarian
+                        daerah, lagu daerah, wisata iconic dll. Diharapkan melalui
+                        video ini mahasiswa baru ikut memberikan kontribusinya
+                        untuk negeri ini dalam mengenalkan kebudayaan yang ada di
+                        Indonesia. Mari ramaikan video ini dengan tagar berikut:
+                        #KamiBaktiUntukNegeri
+                    </p>
 
                     <h5>Tujuan :</h5>
                     <ol style="line-height: 30px;">
-                        <li>Membentuk kreativitas mahasiswa dalam membuat video pengenalan budaya dari daerah masing-masing mahasiswa baru.</li>
-                        <li>Menciptakan mahasiswa baru yang kreatif, dan inovatif dalam pembuatan video pengenalan beragam budaya yang ada di Indonesia. </li>
-                        <li>Memberikan informasi terhadap mahasiswa baru bahwa di Universitas Andalas ada beragam latar belakang budaya dari mahasiswa baru. </li>
+                        <li>
+                            Membentuk kreativitas mahasiswa dalam membuat
+                            video pengenalan budaya dari daerah masing-masing
+                            mahasiswa baru.
+                        </li>
+                        <li>
+                            Menciptakan mahasiswa baru yang kreatif, dan inovatif
+                            dalam pembuatan video pengenalan beragam budaya
+                            yang ada di Indonesia.
+                        </li>
+                        <li>
+                            Memberikan informasi terhadap mahasiswa baru bahwa
+                            di Universitas Andalas ada beragam latar belakang
+                            budaya dari mahasiswa baru.
+                        </li>
                     </ol>
 
                     <h5>Ketentuan :</h5>
                     <ol style="line-height: 30px;">
-                        <li>Video berisi kegiatan berkaitan dengan wisata, makanan khas, tarian daerah, atau menyanyikan lagu daerah, video ini diambil boleh berasal dari daerah mana saja yang ada di Indonesia sebagai bentuk peduli dan mengetahui berbagai keberagaman yang ada di Nusantara.</li>
-                        <li>Video berdurasi minimal 30 detik dan maksimal 5 menit dengan pengambilan video wajib potrait.</li>
-                        <li>Video yang dibuat adalah video karya pribadi mahasiswa baru (originalitas) tanpa adanya melakukan plagiarisme, jika memang terdapat clip dari video yang diambil dari google maupun sumber lainnya harap dicantumkan pada end title video. </li>
-                        <li>Jika terdapat kendala pada saat pembuatan maupun pengumpulan, peserta wajib melapor kepada uda-uni mentor kelompok masing-masing, dan disertai dengan bukti yang logis. </li>
+                        <li>
+                            Video berisi kegiatan berkaitan dengan wisata, makanan
+                            khas, tarian daerah, atau menyanyikan lagu daerah,
+                            video ini diambil boleh berasal dari daerah mana saja
+                            yang ada di Indonesia sebagai bentuk peduli dan
+                            mengetahui berbagai keberagaman yang ada di
+                            Nusantara.
+
+                        </li>
+                        <li>
+                            Video berdurasi minimal 30 detik dan maksimal 5
+                            menit dengan pengambilan video wajib potrait.
+                        </li>
+                        <li>
+                            Video yang dibuat adalah video karya pribadi
+                            mahasiswa baru (originalitas) wajib menampakkan
+                            wajah tanpa adanya melakukan plagiarisme, jika
+                            memang terdapat clip dari video yang diambil dari
+                            google maupun sumber lainnya harap dicantumkan
+                            pada end title video.
+                        </li>
+                        <li>
+                            Jika terdapat kendala pada saat pembuatan maupun
+                            pengumpulan, peserta wajib melapor kepada uda-uni
+                            mentor kelompok masing-masing, dan disertai dengan
+                            bukti yang logis.
+                        </li>
                     </ol>
 
                     <h5>Caption :</h5>
                     <p>Judul : [Challenge Bakti #1 UNAND 2022]</p>
-                    <p>(Caption menarik tentang budaya yang terkait dengan video)
-                        Saya (Nama) dari (Jurusan)(Fakultas), dengan BAKTI UNAND 2022 saya ikut memberikan kontribusi untuk negeri ini dalam mengenalkan keberagaman budaya Indonesia.
+                    <p>
+                        (Caption menarik tentang budaya yang terkait dengan video)
+                        Saya (Nama) dari (Jurusan)(Fakultas), dengan BAKTI
+                        UNAND 2022 saya ikut memberikan kontribusi untuk
+                        negeri ini dalam mengenalkan keberagaman budaya
+                        Indonesia.
                     </p>
                     <p>#KamiBaktiUntukNegeri <br>
-                        #BAKTIUNAND2022<br>
-                        #VideoKreatifMABAUNAND2022
+                        #BAKTIUNAND2022 <br>
+                        #AdayawimsatiAdhikara <br>
+                        #VideoKreatifMABAUNAND2022 <br>
                     </p>
 
                     <h5 style="margin-top:15px">Kriteria :</h5>
                     <ol style="line-height: 30px;">
-                        <li>Originalitas : dibuat menggunakan karya pribadi (25).</li>
+                        <li>Originalitas : dibuat menggunakan karya pribadi (25)</li>
                         <li>Kreativitas (20) </li>
                         <li>Kesesuaian isi video dengan tema yang diberikan (20)</li>
                         <li>Estetika : kerapihan dan keindahan video (15)</li>
@@ -76,22 +125,26 @@
                     <h5 style="margin-top:15px">Timeline :</h5>
                     <p style="line-height: 30px;text-align:justify">
                         Tanggan Release : 5 Agustus 2022 <br>
-                        Tanggal Pengumpulan : 12 Agustus 2022
-
+                        Tanggal di upload : 12 Agustus 2022
                     </p>
 
                     <h5 style="margin-top:15px">Teknis Pengumpulan :</h5>
                     <p style="line-height: 30px;text-align:justify">
-                        Video diupload di Instagram pribadi mahasiswa baru dalam bentuk IGTV dengan mengaktifkan fitur post a preview, akun tidak diperbolehkan privat dan wajib Tag IG @baktiunand @bemkmunand dan akun instagram Uda dan Uni Mentor kelompok masing-masing. Nantinya mahasiswa baru akan mengumpulkan Link IGTV tersebut ke dalam Link G-Form yang disediakan oleh panitia.
-
+                        Video diupload di Instagram pribadi mahasiswa baru dalam
+                        bentuk reels dengan mengaktifkan fitur post a preview, akun
+                        tidak diperbolehkan privat dan wajib Tag IG @baktiunand
+                        @bemkmunand dan akun instagram Uda dan Uni Mentor
+                        kelompok masing-masing. Nantinya mahasiswa baru akan
+                        mengumpulkan Link reels tersebut ke dalam Link G-Form
+                        yang disediakan oleh panitia.
                     </p>
 
-                    <h5 style="margin-top:15px">Hadiah :</h5>
-                    <ol style="line-height: 30px;">
-                        <li>Sertifikat.</li>
-                        <li>Merchendise</li>
-                        <li>Poin Peniilaian</li>
-                    </ol>
+{{--                    <h5 style="margin-top:15px">Hadiah :</h5>--}}
+{{--                    <ol style="line-height: 30px;">--}}
+{{--                        <li>Sertifikat.</li>--}}
+{{--                        <li>Merchendise</li>--}}
+{{--                        <li>Poin Peniilaian</li>--}}
+{{--                    </ol>--}}
 
                     <p uk-margin align="center">
                         <button class="uk-button uk-button-default center" uk-toggle="target: #modal-close-default" style="padding:5px 25px;font-size:18px;background-color:#54744F;color:white;weight:800; border-radius:10px">SUBMIT</button>

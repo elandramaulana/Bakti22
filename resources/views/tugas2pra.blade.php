@@ -35,12 +35,22 @@
             <div class="">
                 <div class="task uk-card uk-card-default uk-card-hover uk-card-body opacity-75 mt-10 challenge-card">
                     <h5>#AkuDanKampusku</h5>
-                    <p style="line-height: 30px;">Video Kreatif oleh Mahasiswa Baru UNAND 2022 ini adalah video yang dibuat oleh mahasiswa baru mengenai Universitas Andalas. Dalam pembuatannya mahasiswa boleh memilih tema yang disediakan oleh panitia untuk proses pembuatan videonya. Sehingga melalui video ini kita berharap mahasiswa baru akan lebih kenal dengan lingkungan kampusnya dan memberikan wawasan baru bagi mereka terkait Universitas Andalas. Mari ramaikan video ini dengan tagar berikut: #AkuDanKampusku</p>
+                    <p style="line-height: 30px;">
+                        Video Kreatif oleh Mahasiswa Baru UNAND 2022 ini
+                        adalah video yang dibuat oleh mahasiswa baru mengenai
+                        Universitas Andalas. Dalam pembuatannya mahasiswa boleh
+                        memilih tema yang disediakan oleh panitia untuk proses
+                        pembuatan videonya. Sehingga melalui video ini kita
+                        berharap mahasiswa baru akan lebih kenal dengan
+                        lingkungan kampusnya dan memberikan wawasan baru bagi
+                        mereka terkait Universitas Andalas. Mari ramaikan video ini
+                        dengan tagar berikut: #AkuDanKampusku
+                    </p>
 
                     <h5>Tujuan :</h5>
                     <ol style="line-height: 30px;">
-                        <li>Membentuk mahasiswa baru yang mengenal lingkungannya sendiri.</li>
-                        <li>Memberikan wawasan yang konstruktif dan berkelanjutan terhadap mahasiswa baru oleh panitia BAKTI 2022 </li>
+                        <li>Membentuk mahasiswa baru yang mengenal lingkungannya sendiri</li>
+                        <li>Memberikan wawasan yang konstruktif dan berkelanjutan terhadap mahasiswa baru oleh panitia BAKTI 2022</li>
                         <li>Menanamkan penasaran yang yang tinggi terhadap lingkungan Universitas Andalas</li>
                     </ol>
 
@@ -53,23 +63,40 @@
                             <li>Fun Fact atau ciri khas unik tentang Universitas Andalas yang perlu diketahui Mahasiswa Universitas Andalas</li>
                             <li>Kesan dan pesan BAKTI 2022</li>
                         </ol>
-                        <li>Video berdurasi minimal 30 detik dan maksimal 5 menit dengan pengambilan video wajib potrait</li>
-                        <li>Video yang dibuat adalah video karya pribadi mahasiswa baru (originalitas) tanpa adanya melakukan plagiarisme, jika memang terdapat clip dari video yang diambil dari google maupun sumber lainnya harap dicantumkan pada end title video. </li>
-                        <li>Jika memungkinkan mahasiswa baru dapat melakukan shooting langsung di UNAND.</li>
-                        <li>Dan Jika terdapat kendala pada saat pembuatan maupun pengumpulan, peserta wajib melapor kepada uda-uni mentor kelompok masing-masing, dan disertai dengan bukti yang logis. </li>
+                        <li>Video berdurasi minimal 30 detik dan maksimal 5
+                            menit dengan pengambilan video wajib potrait. </li>
+                        <li>
+                            Video yang dibuat adalah video karya pribadi
+                            mahasiswa baru (originalitas) wajib menampakkan
+                            wajah dan tanpa adanya melakukan plagiarisme, jika
+                            memang terdapat clip dari video yang diambil dari
+                            google maupun sumber lainnya harap dicantumkan
+                            pada end title video.
+                        </li>
+                        <li>
+                            Jika memungkinkan mahasiswa baru dapat melakukan
+                            shooting langsung di UNAND.
+                        </li>
+                        <li>
+                            Dan Jika terdapat kendala pada saat pembuatan maupun
+                            pengumpulan, peserta wajib melapor kepada uda-uni
+                            mentor kelompok masing-masing, dan disertai dengan
+                            bukti yang logis.
+                        </li>
                     </ol>
 
 
                     <h5>Caption :</h5>
                     <p>Judul : [Challenge Bakti #2 UNAND 2022]</p>
-                    <p>[AkuDanKampusKu]
-                        (Caption menarik tentang tema yang dipilih terkait dengan video dam pengenalan UNAND)
-                        Saya (Nama) dari (Jurusan)(Fakultas), saya Kenal UNAND
+                    <p>[AkuDanKampusKu] <br>
+                        (Caption menarik tentang tema yang dipilih terkait dengan
+                        video dam pengenalan UNAND) <br>
+                        Saya (Nama) dari (Jurusan)(Fakultas), saya Kenal UNAND !
                     </p>
                     <p>#AkuDanKampusku <br>
-                        #BAKTIUNAND2022<br>
-                        #VideoKreatifMABAUNAND2022
-
+                        #BAKTIUNAND2022 <br>
+                        #AdayawimsatiAdhikara <br>
+                        #VideoKreatifMABAUNAND2022 <br>
                     </p>
 
                     <h5 style="margin-top:15px">Kriteria :</h5>
@@ -83,23 +110,27 @@
 
                     <h5 style="margin-top:15px">Timeline :</h5>
                     <p style="line-height: 30px;text-align:justify">
-                        Tanggan Release : 5 Agustus 2022 <br>
+                        Tanggal Release : 5 Agustus 2022 <br>
                         Tanggal Pengumpulan : 13 Agustus 2022
-
-
                     </p>
 
                     <h5 style="margin-top:15px">Teknis Pengumpulan :</h5>
                     <p style="line-height: 30px;text-align:justify">
-                        Video diupload di Instagram pribadi peserta BAKTI dalam bentuk IGTV dengan mengaktifkan fitur post a preview, akun tidak boleh privat dan wajib Tag IG @baktiunand @bemkmunand dan akun instagram Uda dan Uni Mentor kelompok masing-masing. Nantinya mahasiswa baru akan mengumpulkan Link IGTV tersebut ke dalam Link G-Form yang disediakan oleh panitia.
+                        Video diupload di Instagram pribadi peserta BAKTI dalam
+                        bentuk reels dengan mengaktifkan fitur post a preview, akun
+                        tidak boleh privat dan wajib Tag IG @baktiunand
+                        @bemkmunand dan akun instagram Uda dan Uni Mentor
+                        kelompok masing-masing. Nantinya mahasiswa baru akan
+                        mengumpulkan Link reels tersebut ke dalam Link G-Form
+                        yang disediakan oleh panitia.
                     </p>
 
-                    <h5 style="margin-top:15px">Hadiah :</h5>
-                    <ol style="line-height: 30px;">
-                        <li>Sertifikat.</li>
-                        <li>Merchendise</li>
-                        <li>Poin Peniilaian</li>
-                    </ol>
+{{--                    <h5 style="margin-top:15px">Hadiah :</h5>--}}
+{{--                    <ol style="line-height: 30px;">--}}
+{{--                        <li>Sertifikat.</li>--}}
+{{--                        <li>Merchendise</li>--}}
+{{--                        <li>Poin Peniilaian</li>--}}
+{{--                    </ol>--}}
 
                     <p uk-margin align="center">
                         <button class="uk-button uk-button-default center" uk-toggle="target: #modal-close-default" style="padding:5px 25px;font-size:18px;background-color:#54744F;color:white;weight:800; border-radius:10px">SUBMIT</button>

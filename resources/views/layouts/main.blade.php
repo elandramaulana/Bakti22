@@ -49,13 +49,13 @@
           <a class="uk-navbar-toggle uk-navbar-toggle-animate" uk-navbar-toggle-icon href="#"></a>
           <div class="uk-navbar-dropdown nav-backs">
             <ul class="uk-nav uk-navbar-dropdown-nav">
-              <li><a href="{{ route("fakultas") }}">Fakultas dan Jurusan</a></li>
+{{--              <li><a href="{{ route("fakultas") }}">Fakultas dan Jurusan</a></li>--}}
               <li><a href="{{ route("ukm") }}">Unit Kegiatan Mahasiswa</a></li>
               <li><a href="{{ route("anthem") }}">Bakti Anthem Player</a></li>
               <li><a href="{{ route("merch") }}">Merchandise</a></li>
               <li><a href="{{ route("tugas1pra") }}">Tugas</a></li>
-              <li><a href="{{ route("gallery") }}">Gallery</a></li>
-              <a href="#" uk-toggle="target: #modal-chat-default" class="uk-button chat-btn d-flex justify-content-center">Chat</a>
+{{--              <li><a href="{{ route("gallery") }}">Gallery</a></li>--}}
+{{--              <a href="#" uk-toggle="target: #modal-chat-default" class="uk-button chat-btn d-flex justify-content-center">Chat</a>--}}
             </ul>
           </div>
         </div>
